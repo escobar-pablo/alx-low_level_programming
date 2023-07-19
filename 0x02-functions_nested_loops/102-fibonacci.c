@@ -19,5 +19,5 @@ for (count = 0; count < 50; count++)
 	else
 		printf(",");
 }
-return (0)
+return (0);
 }
