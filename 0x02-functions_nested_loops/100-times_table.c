@@ -21,6 +21,7 @@ int i, j, k;
 				{
 					_putchar(',');
 					_putchar(' ');
+					_putchat(' ');
 					_putchar(k + '0');
 				}
 				else if (k >= 10 && k < 100)
