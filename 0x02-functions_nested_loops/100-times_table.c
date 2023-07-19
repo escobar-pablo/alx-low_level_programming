@@ -30,7 +30,6 @@ int i, j, k;
 					_putchar(',');
 					_putchar(' ');
 					_putchar(' ');
-					_putchar(' ');
 					_putchar((k / 10) + '0');
 					_putchar((k % 10) + '0');
 				}
